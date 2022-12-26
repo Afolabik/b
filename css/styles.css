@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+h3 {
+    color: maroon;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 50%;
+}
